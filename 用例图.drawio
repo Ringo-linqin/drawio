@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-21T10:38:06.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="sfm9WgWuoqT8UaCUnlky" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-21T12:53:16.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46" etag="b5lyhov1zUzMcpaGY8FA" version="21.2.1" type="github">
   <diagram name="第 1 页" id="g3KXtieOOxCh1MCoZwCN">
     <mxGraphModel dx="529" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="420" y="80" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTOsZwBSe-IImrIxmHyV-7" value="找回密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="190" width="90" height="40" as="geometry" />
+          <mxGeometry x="280" y="130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UTOsZwBSe-IImrIxmHyV-8" value="用户权限分配" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="160" width="90" height="40" as="geometry" />
