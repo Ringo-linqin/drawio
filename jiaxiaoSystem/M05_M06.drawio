@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T08:20:41.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" version="21.5.2" etag="LXGZBmvb8ZWYoO1FNOqT" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T08:23:52.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="kUY99fW3sAYIDieDkEEm" version="21.5.2" type="github">
   <diagram name="第 1 页" id="XhXCg2Ok07YFrrj1PNat">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="477" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_7LHMn7Qy-vGmnw-7lLM-4" target="_7LHMn7Qy-vGmnw-7lLM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-4" value="进入学习统计界面" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="140" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-7" value="退出学习统计界面" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="280" y="448" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_7LHMn7Qy-vGmnw-7lLM-11" target="_7LHMn7Qy-vGmnw-7lLM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-11" value="模糊查询" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_7LHMn7Qy-vGmnw-7lLM-17" target="_7LHMn7Qy-vGmnw-7lLM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-17" value="学员基本&lt;br&gt;信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="260" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_7LHMn7Qy-vGmnw-7lLM-25" target="_7LHMn7Qy-vGmnw-7lLM-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-25" value="查找成功" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="320" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_7LHMn7Qy-vGmnw-7lLM-28" target="_7LHMn7Qy-vGmnw-7lLM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-28" value="更新学习统计列表" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="255" y="387" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_7LHMn7Qy-vGmnw-7lLM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;" edge="1" parent="1" source="_7LHMn7Qy-vGmnw-7lLM-7" target="_7LHMn7Qy-vGmnw-7lLM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
