@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T13:48:51.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.4.0" etag="m91zGYX_F9SzQNXFvQxO" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T13:52:16.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="d9uflRvhYOYhzatjplY2" version="24.4.0" type="github">
   <diagram name="第 1 页" id="bajdHXp7k1QX_ZabEC0X">
-    <mxGraphModel>
+    <mxGraphModel dx="380" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;" edge="1" parent="1" source="N031FBTVrf2W9Ft2EzPP-3" target="N031FBTVrf2W9Ft2EzPP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-3" value="开始" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="193" y="80" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-7" value="选择统计方式(年、月、周、日)" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="159.5" y="145" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="N031FBTVrf2W9Ft2EzPP-16" source="N031FBTVrf2W9Ft2EzPP-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="303" as="sourcePoint" />
+            <mxPoint x="232.10000000000002" y="333.0437158469946" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-9" value="统计条件表单" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="179.5" y="213" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="N031FBTVrf2W9Ft2EzPP-11" target="N031FBTVrf2W9Ft2EzPP-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-11" value="更新数据大屏" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="144" y="342" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="N031FBTVrf2W9Ft2EzPP-11" source="N031FBTVrf2W9Ft2EzPP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="373" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-13" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N031FBTVrf2W9Ft2EzPP-12">
+          <mxGeometry x="-0.32" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N031FBTVrf2W9Ft2EzPP-16" target="N031FBTVrf2W9Ft2EzPP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-15" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N031FBTVrf2W9Ft2EzPP-14">
+          <mxGeometry x="0.1442" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-16" value="统计请求成功" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="182.75" y="278" width="96.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="N031FBTVrf2W9Ft2EzPP-7" target="N031FBTVrf2W9Ft2EzPP-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="232" y="253" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-19" value="错误信息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="316" y="280.5" width="87" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="N031FBTVrf2W9Ft2EzPP-20" value="结束" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="192" y="398" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
